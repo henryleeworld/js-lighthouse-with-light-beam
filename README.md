@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/kTo4sPI.gif)
+![](https://i.imgur.com/KkloHOm.gif)
 > 旋轉照射的燈塔，指引海上夜歸男兒的方向
